@@ -11,11 +11,11 @@ Pushtape puts the focus on music (albums, tracks, etc.) which makes a lot of sen
 
 Consequently, this distro will feature an **events system** with integrated **maps and directions** powered by [Leaflet](http://leafletjs.com/), [IP Geolocation Views & Maps](https://drupal.org/project/ip_geoloc) and [Get Directions](https://drupal.org/project/getdirections). It will automatically provide an **upcoming events feature** on the home page, rather than putting all the focus on news items.
 
-This distro provides a framework for managing booking and audition requests with [webform](https://drupal.org/project/webform) and [honeypot](https://drupal.org/project/honeypot).
+This distro provides a framework for **managing booking and audition requests** with [webform](https://drupal.org/project/webform) and [honeypot](https://drupal.org/project/honeypot).
 
-It builds on the excellent responsive foundation of Pushtape's Flux theme with a few other improvements like [responsive menus](https://drupal.org/project/responsive_menus), [accessibility titles](https://drupal.org/project/a11y_titles), [fastclick](http://ftlabs.github.io/fastclick/) and [fitvids](http://fitvidsjs.com/).
+It builds on the excellent responsive foundation of Pushtape's Flux theme with a few other **responsive improvements** like [responsive menus](https://drupal.org/project/responsive_menus), [accessibility titles](https://drupal.org/project/a11y_titles), [fastclick](http://ftlabs.github.io/fastclick/) and [fitvids](http://fitvidsjs.com/).
 
-Finally, this distro adds built-in social media settings, both in the form of widgets provided by [socialite](http://socialitejs.com/) and metadata powered by [metatag](https://drupal.org/project/metatag), [xmlsitemap](https://drupal.org/project/xmlsitemap) and [site verify](https://drupal.org/project/site_verify).
+Finally, this distro adds built-in **social media settings**, both in the form of widgets provided by [socialite](http://socialitejs.com/) and metadata powered by [metatag](https://drupal.org/project/metatag), [xmlsitemap](https://drupal.org/project/xmlsitemap) and [site verify](https://drupal.org/project/site_verify).
 
 ## Background
 
